@@ -22,9 +22,13 @@ Ctrl + alt + k; commit'er og push'er
 
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
 
-Format C:-løsser all problmer
+Format C: - løser alle problemer
 
 ctrl + shift + f	search
+
+alt + insert :: auto generér kode som f.eks. Constructor, getter, setter, override methods, implement methods. Kan også bruges til at rette fejl: f.eks. hvis et implementeret Klassenavn er rødt, så får du mulighed for at 'import class' eller 'create class' med klassenavnet. Tryk kombinationen hvor som helst for at se dine muligheder. 
+
+
 
 ## Forkortelser 
 
